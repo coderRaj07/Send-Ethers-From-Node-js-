@@ -1,6 +1,6 @@
-In this app we can send transactions from one account to other one using Nodejs
-Here we have used private key of the sender who pays the gas prices as the company
-To run this App you need to have web3 module and Node Module installed in your system
+In this app we can send transactions from one account to other one using Nodejs.
+Here we have used private key of the sender who pays the gas prices as the company.
+To run this App you need to have web3 module and Node Module installed in your system.
 
 **#How to Run** 
 Just Download the file 
